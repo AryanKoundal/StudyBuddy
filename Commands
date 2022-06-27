@@ -1,0 +1,12 @@
+$ pip install virtualenv
+$ virtualenv env(environmentname)
+$ source env/bin/activate // ACTIVATE IN DJANGO FOLDER
+$ deactivate
+$ pip install django
+$ django-admin startproject studybud(projectname)
+$ cd studybud/
+$ python manage.py runserver // MANAGE.PY IN PARENT STUDYBUD
+$ python manage.py startapp base(app name)
+
+$ python manage.py makemigrations
+$ python manage.py migrate
