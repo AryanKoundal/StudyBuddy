@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from multiprocessing import context
 from pydoc_data.topics import topics
 import re
-from tkinter import TOP
+# from tkinter import TOP
 from urllib import request
 import django
 from django.shortcuts import render,redirect
