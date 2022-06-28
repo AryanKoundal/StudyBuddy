@@ -1,3 +1,7 @@
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+
 from multiprocessing import context
 from pydoc_data.topics import topics
 import re

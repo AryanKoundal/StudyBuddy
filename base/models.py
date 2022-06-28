@@ -1,8 +1,12 @@
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
 from email.policy import default
 from pickle import TRUE
 from pyexpat import model
 from statistics import mode
 from tkinter import CASCADE
+from django.db.models.deletion import CASCADE
 from django.db import models
 from django.contrib.auth.models import AbstractUser
 from django.forms import EmailField 
