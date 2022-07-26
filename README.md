@@ -69,7 +69,12 @@ $ Running the App
 1. Edit your own profile with an about section
 
 # App Preview
-
+![Screenshot from 2022-07-26 19-17-45](https://user-images.githubusercontent.com/77334487/181024360-2ed74feb-9e73-405b-89b5-5eece3179c05.png)
+![Screenshot from 2022-07-26 19-18-23](https://user-images.githubusercontent.com/77334487/181024386-bc4e1b45-0519-4a63-b477-96df3c499910.png)
+![Screenshot from 2022-07-26 19-19-01](https://user-images.githubusercontent.com/77334487/181024396-ce80f27b-2e52-4789-a5b7-90406b61dd36.png)
+![Screenshot from 2022-07-26 19-19-40](https://user-images.githubusercontent.com/77334487/181024410-b8bc5bb0-9be5-4cdb-8faf-e4b14be72348.png)
+![Screenshot from 2022-07-26 19-19-52](https://user-images.githubusercontent.com/77334487/181024421-734480a7-5838-4a53-b0a4-0860a42470db.png)
+![Screenshot from 2022-07-26 19-20-19](https://user-images.githubusercontent.com/77334487/181024427-6fff9527-99af-44c2-aed3-1e81f01f953c.png)
 
 
 
